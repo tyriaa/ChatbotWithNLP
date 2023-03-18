@@ -1,9 +1,9 @@
-# ChatbotWithNLP
-Chatbot With NLP (HTML/ CSS/ Tensorflow)
+# ChatbotWithNLP 
+Chatbot With NLP (HTML/ CSS/ Tensorflow/ nltk/ Keras) #NeuralNetwork
 
 TO USE IT :
 
-- Downloads all files and put them together in the same folder.
+- Downloads all files and put them together in the same folder. 
 
 - Change the directory in "main.py" to use it 
 
