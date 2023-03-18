@@ -12,6 +12,8 @@ TO USE IT :
 
 ABOUT FILES :
 
+- All the files are in the folder "web"
+
 - You can find the front in the folder "Templates". It is coded in HTML with a CSS file in the folder "static".
 
 - The NLP model is called "chatbot_model.h5" and is coded in Python3.10 with Keras and nltk.
